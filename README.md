@@ -17,7 +17,10 @@ Paso 2
 Paso 3
 
 ```bash
-./client <USUARIO>/<IP>:<PUERTO>
+./cliente <USUARIO>/<IP>:<PUERTO>
+```
+Por ejemplo: 
+```bash
 ./cliente localhost/127.0.0.1:8080
 
 ```
